@@ -87,3 +87,4 @@
 </body>
 </html>
 
+![Dream Lifestyle Properties Logo Blk Background](https://github.com/user-attachments/assets/e571d7dc-18b3-4936-9281-5b1eb3e54818)
