@@ -87,4 +87,13 @@
 </body>
 </html>
 
+
+title: Dream Lifestyle Properties homepage
+description: GitHub Pages example for promoting a project
+github_username: carabalj3769
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
 ![Dream Lifestyle Properties Logo Blk Background](https://github.com/user-attachments/assets/7ddabdad-66a4-4b63-b8b4-490dc8ea3e71)
